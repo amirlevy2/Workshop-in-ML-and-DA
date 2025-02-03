@@ -10,6 +10,9 @@
 * TabPFN_files - files that intended to help us use the TabPFN model insode Kaggle notebooks (instruction later)
 
 ## notebooks description
+
+* best_all-models - PowerTransformer + Best TabPFN configuration -> 0.355
+
 * a_all-models - PowerTransformer + Best XG depth configuration + reweight after prediction -> 0.363
 
 * b_all-models - PowerTransformer + Best XG depth configuration -> 0.368
